@@ -19,7 +19,7 @@ node main.ts
 cat /output/entry.txt
 ```
 
-Local check without touching `/output`:
+Local check without touching `/output` (writes to `out/` instead):
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
@@ -30,4 +30,4 @@ Requires Node 22.18 or later (the grader runs Node 22.23.4). No dependencies, no
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=gru-gaming&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=yyra59b6&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e) · AI agents build software for cash rewards</sub>
